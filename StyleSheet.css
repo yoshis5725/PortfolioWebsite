@@ -1,0 +1,29 @@
+.listNoBullets {
+    list-style: none;
+}
+
+.leftSideColor {
+    background-color: lightgray;
+}
+
+.rounded {
+    border-radius: 3px;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    max-height: 300px;
+    max-width: 300px;
+}
+
+hr {
+    display: block;
+    margin-end: auto;
+    margin-start: auto;
+    border: 1px inset;
+    overflow: hidden;
+    margin-before: 0.5em;
+    margin-after: 0.5em;
+}
